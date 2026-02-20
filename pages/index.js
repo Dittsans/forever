@@ -213,10 +213,10 @@ class Home extends Component {
         <div className="pt-24 text-center jumbotron pb-72">
           <div className="mx-3 jumbotron-text mt-28">
             <p className="mt-2 text-6xl font-extrabold tracking-tight text-white lg:text-9xl md:text-7xl dark:text-gray-200">
-            Album <span className="text-indigo-600">Fesco</span>.
+            Galery <span className="text-indigo-600">ManKomDig</span>.
             </p>
             <p className="max-w-2xl mx-auto mt-4 text-base font-semibold text-gray-300 break-words md:text-lg lg:text-xl">
-              Kelas IPS 5 Di SMAN 1 Kaliwungu Angkatan Tahun 2018-2021.
+              Belum tau jirt mau di isi apa.
             </p>
           </div>
         </div>
@@ -229,7 +229,7 @@ class Home extends Component {
           <div className="flex flex-col px-4 py-12 text-center sm:px-6 lg:py-20 lg:px-24 md:text-left md:flex-row md:items-center md:justify-between md:p-12 bg-indigo-50 dark:bg-gray-900">
             <div className="text-2xl font-semibold md:text-4xl md:w-3/4">
               <div className="text-base font-medium text-gray-800 dark:text-gray-200">Kelas yang penuh kenangan adalah kelas penuh keramaian, kekocakan, kekompakan. Web ini bukan tentang sekolah tapi tentang kelas, semua hal dilakukan akan terkenang didalam memori otak tapi kadang suka lupa karena itu web ini ada. Mungkin web ini bisa nonaktif tetapi akan bisa diaktifkan kembali tanpa ada data hilang.</div>
-              <div className="mt-3 text-indigo-500">Tentang Fesco.</div>
+              <div className="mt-3 text-indigo-500">Tentang Kami.</div>
             </div>
 
             <a className="mt-4 md:mt-0 md:ml-2" href="https://www.instagram.com/fesco_32" target="_blank">
@@ -246,7 +246,7 @@ class Home extends Component {
                 Galeri
               </p>
               <p className="max-w-2xl mx-auto mt-4 text-base text-gray-500 dark:text-gray-400">
-                Foto-Foto Masa Disekolah dan kebersamaan diluar.
+                Foto-Foto Masa Kuliah dan kebersamaan diluar.
               </p>
             </div>
             {this.props.galeri.length != 0 ? 
@@ -298,7 +298,7 @@ class Home extends Component {
         <footer className="bottom-0 py-3 mt-20 shadow-inner">
           <div className="px-2 py-2 mx-auto max-w-7xl sm:px-6 lg:px-8">
             <p className="mx-auto text-sm font-normal text-center truncate dark:text-gray-300">
-              Made with &copy; by Nizar
+              Made with &copy; by dittsans & Haidar
             </p>
           </div>
         </footer>
