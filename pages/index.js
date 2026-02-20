@@ -232,7 +232,7 @@ class Home extends Component {
               <div className="mt-3 text-indigo-500">Tentang Kami.</div>
             </div>
 
-            <a className="mt-4 md:mt-0 md:ml-2" href="https://www.instagram.com/fesco_32" target="_blank">
+            <a className="mt-4 md:mt-0 md:ml-2" href="https://www.instagram.com/information_management25" target="_blank">
               <div className="inline-block px-5 py-3 font-semibold text-indigo-400 bg-white rounded-md shadow-lg hover:bg-indigo-400 hover:text-white dark:bg-gray-800 dark:text-gray-300 dark:hover:bg-indigo-400 dark:hover:text-white">
                 <i className="mr-1 fab fa-instagram"></i> Instagram
               </div>
