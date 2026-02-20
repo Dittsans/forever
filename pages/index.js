@@ -164,7 +164,7 @@ class Home extends Component {
     return (
       <>
         <Head>
-          <title>Album Fesco</title>
+          <title>Mi atau ManKomDig? </title>
         </Head>
         {this.state.showModalSiswa || this.state.showModalGaleri ?
           <style jsx>{`
